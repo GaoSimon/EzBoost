@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/fc-HE.dir/test_field_fc.cpp.o  -o ../bin/fc-HE  ../lib/libSCI-HE.a ../lib/libSCI-LinearHE.a /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so /usr/lib/x86_64-linux-gnu/libgmp.so ../lib/libseal.a -pthread /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.so 

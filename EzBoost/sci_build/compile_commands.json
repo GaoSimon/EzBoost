@@ -1,0 +1,332 @@
+[
+{
+  "directory": "/home/cinwa/SCI/build/src",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/SCI-Beacon.dir/library_float_common.cpp.o -c /home/cinwa/SCI/src/library_float_common.cpp",
+  "file": "/home/cinwa/SCI/src/library_float_common.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/src",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/SCI-Beacon.dir/library_float_beacon.cpp.o -c /home/cinwa/SCI/src/library_float_beacon.cpp",
+  "file": "/home/cinwa/SCI/src/library_float_beacon.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/src",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/SCI-Beacon.dir/globals_float.cpp.o -c /home/cinwa/SCI/src/globals_float.cpp",
+  "file": "/home/cinwa/SCI/src/globals_float.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/src",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/SCI-Beacon.dir/cleartext_library_float.cpp.o -c /home/cinwa/SCI/src/cleartext_library_float.cpp",
+  "file": "/home/cinwa/SCI/src/cleartext_library_float.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/src",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/SCI-SecfloatML.dir/library_float_common.cpp.o -c /home/cinwa/SCI/src/library_float_common.cpp",
+  "file": "/home/cinwa/SCI/src/library_float_common.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/src",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/SCI-SecfloatML.dir/library_float_secfloat.cpp.o -c /home/cinwa/SCI/src/library_float_secfloat.cpp",
+  "file": "/home/cinwa/SCI/src/library_float_secfloat.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/src",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/SCI-SecfloatML.dir/globals_float.cpp.o -c /home/cinwa/SCI/src/globals_float.cpp",
+  "file": "/home/cinwa/SCI/src/globals_float.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/src",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/SCI-SecfloatML.dir/cleartext_library_float.cpp.o -c /home/cinwa/SCI/src/cleartext_library_float.cpp",
+  "file": "/home/cinwa/SCI/src/cleartext_library_float.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/src",
+  "command": "/usr/bin/g++  -DSCI_HE=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/build/include -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -std=gnu++17 -o CMakeFiles/SCI-HE.dir/library_fixed_uniform.cpp.o -c /home/cinwa/SCI/src/library_fixed_uniform.cpp",
+  "file": "/home/cinwa/SCI/src/library_fixed_uniform.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/src",
+  "command": "/usr/bin/g++  -DSCI_HE=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/build/include -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -std=gnu++17 -o CMakeFiles/SCI-HE.dir/globals.cpp.o -c /home/cinwa/SCI/src/globals.cpp",
+  "file": "/home/cinwa/SCI/src/globals.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/src",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/SCI-OT.dir/library_fixed_uniform.cpp.o -c /home/cinwa/SCI/src/library_fixed_uniform.cpp",
+  "file": "/home/cinwa/SCI/src/library_fixed_uniform.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/src",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/SCI-OT.dir/library_fixed.cpp.o -c /home/cinwa/SCI/src/library_fixed.cpp",
+  "file": "/home/cinwa/SCI/src/library_fixed.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/src",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/SCI-OT.dir/globals.cpp.o -c /home/cinwa/SCI/src/globals.cpp",
+  "file": "/home/cinwa/SCI/src/globals.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/src",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/SCI-OT.dir/cleartext_library_fixed.cpp.o -c /home/cinwa/SCI/src/cleartext_library_fixed.cpp",
+  "file": "/home/cinwa/SCI/src/cleartext_library_fixed.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/src/GC",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/SCI-GC.dir/emp-tool.cpp.o -c /home/cinwa/SCI/src/GC/emp-tool.cpp",
+  "file": "/home/cinwa/SCI/src/GC/emp-tool.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/src/GC",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/SCI-GC.dir/halfgate_gen.cpp.o -c /home/cinwa/SCI/src/GC/halfgate_gen.cpp",
+  "file": "/home/cinwa/SCI/src/GC/halfgate_gen.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/src/GC",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/SCI-GC.dir/halfgate_eva.cpp.o -c /home/cinwa/SCI/src/GC/halfgate_eva.cpp",
+  "file": "/home/cinwa/SCI/src/GC/halfgate_eva.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/src/BuildingBlocks",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/SCI-BuildingBlocks.dir/value-extension.cpp.o -c /home/cinwa/SCI/src/BuildingBlocks/value-extension.cpp",
+  "file": "/home/cinwa/SCI/src/BuildingBlocks/value-extension.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/src/BuildingBlocks",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/SCI-BuildingBlocks.dir/aux-protocols.cpp.o -c /home/cinwa/SCI/src/BuildingBlocks/aux-protocols.cpp",
+  "file": "/home/cinwa/SCI/src/BuildingBlocks/aux-protocols.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/src/BuildingBlocks",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/SCI-BuildingBlocks.dir/truncation.cpp.o -c /home/cinwa/SCI/src/BuildingBlocks/truncation.cpp",
+  "file": "/home/cinwa/SCI/src/BuildingBlocks/truncation.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/src/LinearOT",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/SCI-LinearOT.dir/linear-ot.cpp.o -c /home/cinwa/SCI/src/LinearOT/linear-ot.cpp",
+  "file": "/home/cinwa/SCI/src/LinearOT/linear-ot.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/src/LinearHE",
+  "command": "/usr/bin/g++   -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/build/include -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -std=gnu++17 -o CMakeFiles/SCI-LinearHE.dir/conv-field.cpp.o -c /home/cinwa/SCI/src/LinearHE/conv-field.cpp",
+  "file": "/home/cinwa/SCI/src/LinearHE/conv-field.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/src/LinearHE",
+  "command": "/usr/bin/g++   -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/build/include -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -std=gnu++17 -o CMakeFiles/SCI-LinearHE.dir/fc-field.cpp.o -c /home/cinwa/SCI/src/LinearHE/fc-field.cpp",
+  "file": "/home/cinwa/SCI/src/LinearHE/fc-field.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/src/LinearHE",
+  "command": "/usr/bin/g++   -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/build/include -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -std=gnu++17 -o CMakeFiles/SCI-LinearHE.dir/elemwise-prod-field.cpp.o -c /home/cinwa/SCI/src/LinearHE/elemwise-prod-field.cpp",
+  "file": "/home/cinwa/SCI/src/LinearHE/elemwise-prod-field.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/src/LinearHE",
+  "command": "/usr/bin/g++   -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/build/include -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -std=gnu++17 -o CMakeFiles/SCI-LinearHE.dir/utils-HE.cpp.o -c /home/cinwa/SCI/src/LinearHE/utils-HE.cpp",
+  "file": "/home/cinwa/SCI/src/LinearHE/utils-HE.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/src/Math",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/SCI-Math.dir/math-functions.cpp.o -c /home/cinwa/SCI/src/Math/math-functions.cpp",
+  "file": "/home/cinwa/SCI/src/Math/math-functions.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/src/FloatingPoint",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/SCI-FloatingPoint.dir/fp-math.cpp.o -c /home/cinwa/SCI/src/FloatingPoint/fp-math.cpp",
+  "file": "/home/cinwa/SCI/src/FloatingPoint/fp-math.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/src/FloatingPoint",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/SCI-FloatingPoint.dir/floating-point.cpp.o -c /home/cinwa/SCI/src/FloatingPoint/floating-point.cpp",
+  "file": "/home/cinwa/SCI/src/FloatingPoint/floating-point.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/src/FloatingPoint",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/SCI-FloatingPoint.dir/fixed-point.cpp.o -c /home/cinwa/SCI/src/FloatingPoint/fixed-point.cpp",
+  "file": "/home/cinwa/SCI/src/FloatingPoint/fixed-point.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/src/FloatingPoint",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/SCI-FloatingPoint.dir/bool-data.cpp.o -c /home/cinwa/SCI/src/FloatingPoint/bool-data.cpp",
+  "file": "/home/cinwa/SCI/src/FloatingPoint/bool-data.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/softmax-beacon.dir/test_floatml_softmax.cpp.o -c /home/cinwa/SCI/tests/test_floatml_softmax.cpp",
+  "file": "/home/cinwa/SCI/tests/test_floatml_softmax.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/softmax-secfloatml.dir/test_floatml_softmax.cpp.o -c /home/cinwa/SCI/tests/test_floatml_softmax.cpp",
+  "file": "/home/cinwa/SCI/tests/test_floatml_softmax.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_HE=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/build/include -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -std=gnu++17 -o CMakeFiles/relu-HE.dir/test_field_relu.cpp.o -c /home/cinwa/SCI/tests/test_field_relu.cpp",
+  "file": "/home/cinwa/SCI/tests/test_field_relu.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/sqrt-OT.dir/test_ring_sqrt.cpp.o -c /home/cinwa/SCI/tests/test_ring_sqrt.cpp",
+  "file": "/home/cinwa/SCI/tests/test_ring_sqrt.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/tanh-OT.dir/test_ring_tanh.cpp.o -c /home/cinwa/SCI/tests/test_ring_tanh.cpp",
+  "file": "/home/cinwa/SCI/tests/test_ring_tanh.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/sigmoid-beacon.dir/test_floatml_sigmoid.cpp.o -c /home/cinwa/SCI/tests/test_floatml_sigmoid.cpp",
+  "file": "/home/cinwa/SCI/tests/test_floatml_sigmoid.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/value_extension-OT.dir/test_ring_value_extension.cpp.o -c /home/cinwa/SCI/tests/test_ring_value_extension.cpp",
+  "file": "/home/cinwa/SCI/tests/test_ring_value_extension.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/maxpool-OT.dir/test_ring_maxpool.cpp.o -c /home/cinwa/SCI/tests/test_ring_maxpool.cpp",
+  "file": "/home/cinwa/SCI/tests/test_ring_maxpool.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/argmax-OT.dir/test_ring_argmax.cpp.o -c /home/cinwa/SCI/tests/test_ring_argmax.cpp",
+  "file": "/home/cinwa/SCI/tests/test_ring_argmax.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_HE=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/build/include -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -std=gnu++17 -o CMakeFiles/maxpool-HE.dir/test_field_maxpool.cpp.o -c /home/cinwa/SCI/tests/test_field_maxpool.cpp",
+  "file": "/home/cinwa/SCI/tests/test_field_maxpool.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/sigmoid-secfloatml.dir/test_floatml_sigmoid.cpp.o -c /home/cinwa/SCI/tests/test_floatml_sigmoid.cpp",
+  "file": "/home/cinwa/SCI/tests/test_floatml_sigmoid.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/dotprod-secfloatml.dir/test_floatml_dotprod.cpp.o -c /home/cinwa/SCI/tests/test_floatml_dotprod.cpp",
+  "file": "/home/cinwa/SCI/tests/test_floatml_dotprod.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/bench_op-float.dir/test_float_bench_op.cpp.o -c /home/cinwa/SCI/tests/test_float_bench_op.cpp",
+  "file": "/home/cinwa/SCI/tests/test_float_bench_op.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/aux_protocols-OT.dir/test_ring_aux_protocols.cpp.o -c /home/cinwa/SCI/tests/test_ring_aux_protocols.cpp",
+  "file": "/home/cinwa/SCI/tests/test_ring_aux_protocols.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/relu-OT.dir/test_ring_relu.cpp.o -c /home/cinwa/SCI/tests/test_ring_relu.cpp",
+  "file": "/home/cinwa/SCI/tests/test_ring_relu.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_HE=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/build/include -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -std=gnu++17 -o CMakeFiles/conv-HE.dir/test_field_conv.cpp.o -c /home/cinwa/SCI/tests/test_field_conv.cpp",
+  "file": "/home/cinwa/SCI/tests/test_field_conv.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/matmul-OT.dir/test_ring_matmul.cpp.o -c /home/cinwa/SCI/tests/test_ring_matmul.cpp",
+  "file": "/home/cinwa/SCI/tests/test_ring_matmul.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/sigmoid-OT.dir/test_ring_sigmoid.cpp.o -c /home/cinwa/SCI/tests/test_ring_sigmoid.cpp",
+  "file": "/home/cinwa/SCI/tests/test_ring_sigmoid.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_HE=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/build/include -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -std=gnu++17 -o CMakeFiles/elemwise_prod-HE.dir/test_field_elemwise_prod.cpp.o -c /home/cinwa/SCI/tests/test_field_elemwise_prod.cpp",
+  "file": "/home/cinwa/SCI/tests/test_field_elemwise_prod.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/vsum-secfloatml.dir/test_floatml_vsum.cpp.o -c /home/cinwa/SCI/tests/test_floatml_vsum.cpp",
+  "file": "/home/cinwa/SCI/tests/test_floatml_vsum.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/truncation-OT.dir/test_ring_truncation.cpp.o -c /home/cinwa/SCI/tests/test_ring_truncation.cpp",
+  "file": "/home/cinwa/SCI/tests/test_ring_truncation.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_HE=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/build/include -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -std=gnu++17 -o CMakeFiles/argmax-HE.dir/test_field_argmax.cpp.o -c /home/cinwa/SCI/tests/test_field_argmax.cpp",
+  "file": "/home/cinwa/SCI/tests/test_field_argmax.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/dotprod-beacon.dir/test_floatml_dotprod.cpp.o -c /home/cinwa/SCI/tests/test_floatml_dotprod.cpp",
+  "file": "/home/cinwa/SCI/tests/test_floatml_dotprod.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/hadamard_product-OT.dir/test_ring_hadamard_product.cpp.o -c /home/cinwa/SCI/tests/test_ring_hadamard_product.cpp",
+  "file": "/home/cinwa/SCI/tests/test_ring_hadamard_product.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_HE=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/build/include -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -std=gnu++17 -o CMakeFiles/fc-HE.dir/test_field_fc.cpp.o -c /home/cinwa/SCI/tests/test_field_fc.cpp",
+  "file": "/home/cinwa/SCI/tests/test_field_fc.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/exp-OT.dir/test_ring_exp.cpp.o -c /home/cinwa/SCI/tests/test_ring_exp.cpp",
+  "file": "/home/cinwa/SCI/tests/test_ring_exp.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/matmul-secfloatml.dir/test_floatml_matmul.cpp.o -c /home/cinwa/SCI/tests/test_floatml_matmul.cpp",
+  "file": "/home/cinwa/SCI/tests/test_floatml_matmul.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/vsum-beacon.dir/test_floatml_vsum.cpp.o -c /home/cinwa/SCI/tests/test_floatml_vsum.cpp",
+  "file": "/home/cinwa/SCI/tests/test_floatml_vsum.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/primitive-float.dir/test_float_primitive.cpp.o -c /home/cinwa/SCI/tests/test_float_primitive.cpp",
+  "file": "/home/cinwa/SCI/tests/test_float_primitive.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/compound-float.dir/test_float_compound.cpp.o -c /home/cinwa/SCI/tests/test_float_compound.cpp",
+  "file": "/home/cinwa/SCI/tests/test_float_compound.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/math-float.dir/test_float_math.cpp.o -c /home/cinwa/SCI/tests/test_float_math.cpp",
+  "file": "/home/cinwa/SCI/tests/test_float_math.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/matmul-beacon.dir/test_floatml_matmul.cpp.o -c /home/cinwa/SCI/tests/test_floatml_matmul.cpp",
+  "file": "/home/cinwa/SCI/tests/test_floatml_matmul.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests/GC",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/and.dir/test_and.cpp.o -c /home/cinwa/SCI/tests/GC/test_and.cpp",
+  "file": "/home/cinwa/SCI/tests/GC/test_and.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests/GC",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/msnzb.dir/test_msnzb.cpp.o -c /home/cinwa/SCI/tests/GC/test_msnzb.cpp",
+  "file": "/home/cinwa/SCI/tests/GC/test_msnzb.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests/GC",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/int.dir/test_int.cpp.o -c /home/cinwa/SCI/tests/GC/test_int.cpp",
+  "file": "/home/cinwa/SCI/tests/GC/test_int.cpp"
+},
+{
+  "directory": "/home/cinwa/SCI/build/tests/GC",
+  "command": "/usr/bin/g++  -DSCI_OT=1 -I/home/cinwa/SCI/src -isystem /home/cinwa/SCI/extern/eigen  -g   -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -o CMakeFiles/bit.dir/test_bit.cpp.o -c /home/cinwa/SCI/tests/GC/test_bit.cpp",
+  "file": "/home/cinwa/SCI/tests/GC/test_bit.cpp"
+}
+]

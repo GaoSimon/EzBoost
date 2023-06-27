@@ -1,0 +1,86 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "VFL",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "S1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-S1-Release-41abc032811422768d2e.json",
+					"name" : "S1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "S2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-S2-Release-88e2dd7a290a90aea4de.json",
+					"name" : "S2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "party::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-party-Release-f11b2a05d305f6c5b37e.json",
+					"name" : "party",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "user::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-user-Release-8142e264b5e80069a798.json",
+					"name" : "user",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/cinwa/my_4th_VFL/build",
+		"source" : "/home/cinwa/my_4th_VFL"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

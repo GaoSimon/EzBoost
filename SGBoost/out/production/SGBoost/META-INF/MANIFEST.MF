@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: cloud.CloudServiceProvider
+Class-Path: dataowner.DataOrganizer dataowner.DataOwner
+

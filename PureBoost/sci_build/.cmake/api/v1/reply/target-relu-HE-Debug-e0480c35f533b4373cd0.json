@@ -1,0 +1,232 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "bin/relu-HE"
+		}
+	],
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"add_test_HE",
+			"target_link_libraries"
+		],
+		"files" : 
+		[
+			"tests/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 7,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 8,
+				"parent" : 1
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g  "
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-pthread"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-maes"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-msse4.1"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-mavx"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-mavx2"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-faligned-new"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-std=c++17"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-O3"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wno-parentheses-equality"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wno-deprecated-declarations"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-Wno-macro-redefined"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-mrdseed"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "-fopenmp"
+				},
+				{
+					"fragment" : "-std=gnu++17"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 3,
+					"define" : "SCI_HE=1"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "/home/cinwa/SCI/src"
+				},
+				{
+					"backtrace" : 3,
+					"isSystem" : true,
+					"path" : "/home/cinwa/SCI/build/include"
+				},
+				{
+					"backtrace" : 3,
+					"isSystem" : true,
+					"path" : "/home/cinwa/SCI/extern/eigen"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "SCI-HE::@145eef247bfb46b6828c"
+		},
+		{
+			"backtrace" : 3,
+			"id" : "SCI-LinearHE::@8203ade333def11cfab2"
+		}
+	],
+	"id" : "relu-HE::@a44f0ac069e85531cdee",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-rdynamic",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "../lib/libSCI-HE.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "../lib/libSCI-LinearHE.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libssl.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libcrypto.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libgmp.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "../lib/libseal.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-pthread",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/usr/lib/x86_64-linux-gnu/libpthread.so",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "relu-HE",
+	"nameOnDisk" : "relu-HE",
+	"paths" : 
+	{
+		"build" : "tests",
+		"source" : "tests"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 2,
+			"compileGroupIndex" : 0,
+			"path" : "tests/test_field_relu.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

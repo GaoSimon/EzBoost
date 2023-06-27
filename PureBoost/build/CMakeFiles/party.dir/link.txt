@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/party.dir/Party.cc.o -o bin/party  -pthread /usr/lib/x86_64-linux-gnu/libzmq.so 

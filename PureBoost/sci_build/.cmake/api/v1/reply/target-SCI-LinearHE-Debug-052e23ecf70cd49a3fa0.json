@@ -1,0 +1,212 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "lib/libSCI-LinearHE.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"install",
+			"target_link_libraries",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"src/LinearHE/CMakeLists.txt",
+			"src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 62,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 28,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 2
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g  "
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-pthread"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-maes"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-msse4.1"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-mavx"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-mavx2"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-faligned-new"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-std=c++17"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-O3"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-Wno-parentheses-equality"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-Wno-deprecated-declarations"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-Wno-macro-redefined"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-mrdseed"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "-fopenmp"
+				},
+				{
+					"fragment" : "-std=gnu++17"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 5,
+					"path" : "/home/cinwa/SCI/src"
+				},
+				{
+					"backtrace" : 4,
+					"isSystem" : true,
+					"path" : "/home/cinwa/SCI/build/include"
+				},
+				{
+					"backtrace" : 4,
+					"isSystem" : true,
+					"path" : "/home/cinwa/SCI/extern/eigen"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3
+			]
+		}
+	],
+	"id" : "SCI-LinearHE::@8203ade333def11cfab2",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 3,
+				"path" : "lib"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/home/cinwa/SCI/build/install"
+		}
+	},
+	"name" : "SCI-LinearHE",
+	"nameOnDisk" : "libSCI-LinearHE.a",
+	"paths" : 
+	{
+		"build" : "src/LinearHE",
+		"source" : "src/LinearHE"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/LinearHE/conv-field.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/LinearHE/fc-field.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/LinearHE/elemwise-prod-field.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/LinearHE/utils-HE.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

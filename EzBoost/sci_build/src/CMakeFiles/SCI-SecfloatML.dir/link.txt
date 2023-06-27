@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libSCI-SecfloatML.a  CMakeFiles/SCI-SecfloatML.dir/library_float_common.cpp.o CMakeFiles/SCI-SecfloatML.dir/library_float_secfloat.cpp.o CMakeFiles/SCI-SecfloatML.dir/globals_float.cpp.o CMakeFiles/SCI-SecfloatML.dir/cleartext_library_float.cpp.o
+/usr/bin/ranlib ../lib/libSCI-SecfloatML.a

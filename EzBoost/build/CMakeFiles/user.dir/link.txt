@@ -1,0 +1,1 @@
+/usr/bin/g++ -O2 -O3 -DNDEBUG -rdynamic CMakeFiles/user.dir/User.cc.o -o bin/user  -pthread /usr/lib/x86_64-linux-gnu/libzmq.so 

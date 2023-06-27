@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/cinwa/my_4th_VFL/build",
+  "command": "/usr/bin/g++  -isystem /home/cinwa/cppzmq-4.9.0 -O2 -O3 -DNDEBUG   -w -std=gnu++17 -o CMakeFiles/user.dir/User.cc.o -c /home/cinwa/my_4th_VFL/User.cc",
+  "file": "/home/cinwa/my_4th_VFL/User.cc"
+},
+{
+  "directory": "/home/cinwa/my_4th_VFL/build",
+  "command": "/usr/bin/g++  -isystem /home/cinwa/cppzmq-4.9.0 -O2 -O3 -DNDEBUG   -w -std=gnu++17 -o CMakeFiles/party.dir/Party.cc.o -c /home/cinwa/my_4th_VFL/Party.cc",
+  "file": "/home/cinwa/my_4th_VFL/Party.cc"
+},
+{
+  "directory": "/home/cinwa/my_4th_VFL/build",
+  "command": "/usr/bin/g++ -DSCI_OT=1 -isystem /home/cinwa/cppzmq-4.9.0 -isystem /home/cinwa/my_4th_VFL/sci_build/install/include -isystem /home/cinwa/my_4th_VFL/sci_build/install/. -isystem /home/cinwa/SCI/extern/eigen -O2 -O3 -DNDEBUG   -w -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -std=gnu++17 -o CMakeFiles/S1.dir/Server1.cc.o -c /home/cinwa/my_4th_VFL/Server1.cc",
+  "file": "/home/cinwa/my_4th_VFL/Server1.cc"
+},
+{
+  "directory": "/home/cinwa/my_4th_VFL/build",
+  "command": "/usr/bin/g++ -DSCI_OT=1 -isystem /home/cinwa/cppzmq-4.9.0 -isystem /home/cinwa/my_4th_VFL/sci_build/install/include -isystem /home/cinwa/my_4th_VFL/sci_build/install/. -isystem /home/cinwa/SCI/extern/eigen -O2 -O3 -DNDEBUG   -w -pthread -maes -msse4.1 -mavx -mavx2 -faligned-new -std=c++17 -O3 -Wno-parentheses-equality -Wno-deprecated-declarations -Wno-macro-redefined -mrdseed -fopenmp -std=gnu++17 -o CMakeFiles/S2.dir/Server2.cc.o -c /home/cinwa/my_4th_VFL/Server2.cc",
+  "file": "/home/cinwa/my_4th_VFL/Server2.cc"
+}
+]

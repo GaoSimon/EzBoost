@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/cinwa/my_pure_VFL/build",
+  "command": "/usr/bin/g++  -isystem /home/cinwa/cppzmq-4.9.0 -g   -w -std=gnu++17 -o CMakeFiles/party.dir/Party.cc.o -c /home/cinwa/my_pure_VFL/Party.cc",
+  "file": "/home/cinwa/my_pure_VFL/Party.cc"
+}
+]

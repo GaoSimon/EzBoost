@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="unnamed">
+    <output-path>//wsl$/Ubuntu-20.04/home/cinwa</output-path>
+    <root id="archive" name="unnamed.jar">
+      <element id="module-output" name="SGBoost" />
+      <element id="library" level="application" name="gson-2.10.1" />
+      <element id="library" level="project" name="gson-2.10.1" />
+    </root>
+  </artifact>
+</component>

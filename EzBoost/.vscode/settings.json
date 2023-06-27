@@ -1,0 +1,27 @@
+{
+	"files.autoSave": "afterDelay",
+	"files.associations": {
+		"alignedvector3": "cpp",
+		"array": "cpp",
+		"string": "cpp",
+		"string_view": "cpp",
+		"ostream": "cpp",
+		"iostream": "cpp",
+		"*.expression": "cpp",
+		"fft": "cpp",
+		"*.tcc": "cpp",
+		"deque": "cpp",
+		"forward_list": "cpp",
+		"list": "cpp",
+		"vector": "cpp",
+		"hash_map": "cpp",
+		"bitset": "cpp",
+		"chrono": "cpp",
+		"random": "cpp",
+		"numeric": "cpp",
+		"ratio": "cpp",
+		"utility": "cpp",
+		"algorithm": "cpp",
+		"fstream": "cpp"
+	}
+}
